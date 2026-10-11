@@ -139,6 +139,9 @@ Validate your markup using [Google Rich Results Test](https://search.google.com/
 GitHub repositories often rank on the first page of Google for developer tools because `github.com` possesses a Domain Authority of 96+.
 
 ### Maximize Quick-JSON GitHub Ranking:
+- **Current Git URL**: `https://github.com/toolaska/json-formatter-tool.git`
+- **GitHub Repository**: `https://github.com/toolaska/json-formatter-tool`
+
 1. **Repository About Section**:
    - **Description**: *"Free online JSON formatter, validator, beautifier, and interactive tree viewer. 100% client-side privacy. Hosted at https://json.toolaska.com"*
    - **Website**: Set explicitly to `https://json.toolaska.com`

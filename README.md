@@ -5,6 +5,7 @@
 ### Professional Online JSON Beautifier, Syntax Checker, Minifier, and Tree Viewer
 
 [![Live Tool](https://img.shields.io/badge/Live%20Tool-json.toolaska.com-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://json.toolaska.com/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toolaska/json-formatter-tool)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)](LICENSE)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Client--Side-purple?style=for-the-badge&logo=shield)](https://json.toolaska.com/)
 [![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)](https://json.toolaska.com/)
@@ -22,10 +23,11 @@
 
 </div>
 
-## 🌐 Live Web Application
+## 🌐 Live Web Application & Repository
 
-The live production application is available for free with no signup required:
-👉 **[https://json.toolaska.com](https://json.toolaska.com/)**
+- **Live Application**: 👉 **[https://json.toolaska.com](https://json.toolaska.com/)**
+- **GitHub Repository**: 👉 **[https://github.com/toolaska/json-formatter-tool](https://github.com/toolaska/json-formatter-tool)**
+- **Git Clone URL**: `git clone https://github.com/toolaska/json-formatter-tool.git`
 
 Explore related developer utilities by Toolaska:
 - **[Toolaska Quick Compiler](https://compiler.toolaska.com/)** — Instant online HTML, CSS, and JavaScript compiler & runner.

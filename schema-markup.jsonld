@@ -13,6 +13,7 @@
       "browserRequirements": "Requires JavaScript. Works in Chrome, Firefox, Safari, Edge, and all modern web browsers.",
       "softwareVersion": "1.0.0",
       "inLanguage": "en",
+      "codeRepository": "https://github.com/toolaska/json-formatter-tool",
       "image": "https://json.toolaska.com/og-image.png",
       "screenshot": "https://json.toolaska.com/og-image.png",
       "author": {
@@ -53,7 +54,8 @@
         "https://json.toolaska.com",
         "https://compiler.toolaska.com",
         "https://diff.toolaska.com",
-        "https://github.com/toolaska-dev/quick-json"
+        "https://github.com/toolaska/json-formatter-tool",
+        "https://github.com/toolaska"
       ],
       "contactPoint": {
         "@type": "ContactPoint",

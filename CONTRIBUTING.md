@@ -20,10 +20,10 @@ Quick-JSON is a free online tool hosted at **[https://json.toolaska.com](https:/
 1. **Fork the Repository**:
    Click the **Fork** button at the top right of this repository.
 
-2. **Clone your Fork**:
+2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/quick-json.git
-   cd quick-json
+   git clone https://github.com/toolaska/json-formatter-tool.git
+   cd json-formatter-tool
    ```
 
 3. **Create a Topic Branch**:
@@ -41,7 +41,7 @@ Quick-JSON is a free online tool hosted at **[https://json.toolaska.com](https:/
    ```
 
 6. **Push and Open a Pull Request**:
-   Push to your branch and submit a PR to `main` against `toolaska-dev/quick-json`.
+   Push to your branch and submit a PR to `main` against `toolaska/json-formatter-tool`.
 
 ---
 
